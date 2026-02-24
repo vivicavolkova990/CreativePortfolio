@@ -1,0 +1,408 @@
+header {
+    background-color: rgb(91, 29, 150);
+    color: lavender;
+    display: flex;
+    justify-content:space-between;
+    position: fixed;
+       top: -10px;
+       left: -10px;
+      width: 100%;
+    padding: 5px 20px;
+    margin: 3px;
+      box-shadow: 2px 2px 4px rgba(35, 1, 38, 0.393);
+}
+.logo {
+    text-align: left;
+    font-family: "Times New Roman", Times, serif;
+    font-size: xx-large;
+font-weight: bolder;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    display: inline-block;
+}
+.logo:hover{
+color: #29002e ;
+}
+.firstbutton{
+  border: none;
+    border-radius: 5px;
+    border-style:solid;
+    border-width: 1.2px;
+    border-color: #29002e;
+    color: lavender;
+    background: rgb(91, 29, 150);
+   text-decoration: none;
+      font-size: medium;
+      padding: 10px 20px;
+        text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+          display: inline-block;
+}
+.firstbutton:hover {
+    background: #29002e;
+    box-shadow: none;
+    position: relative;
+    top: 1px;
+}
+.firstbutton:active {
+  background-color: rgb(46, 33, 44);
+  transform: translateY(2px);
+}
+.secondbutton{
+  border: none;
+    border-radius: 5px;
+    border-style:solid;
+    border-width: 1.2px;
+    border-color: #29002e;
+    color: lavender;
+    background: rgb(91, 29, 150);
+   text-decoration: none;
+      font-size: medium;
+      padding: 10px 20px;
+        text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+          display: inline-block;
+}
+.secondbutton:hover {
+    background: #29002e;
+    box-shadow: none;
+    position: relative;
+        top: 1px;
+}
+.secondbutton:active {
+  background-color: rgb(46, 33, 44);
+  transform: translateY(2px);
+}
+.thirdbutton{
+  border: none;
+    border-radius: 5px;
+    border-style:solid;
+    border-width: 1.2px;
+    border-color: #29002e;
+    color: lavender;
+    background: rgb(91, 29, 150);
+   text-decoration: none;
+      font-size: medium;
+      padding: 10px 20px;
+        text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+          display: inline-block;
+      
+}
+.thirdbutton:hover {
+    background: #29002e;
+    box-shadow: none;
+    position: relative;
+        top: 1px;
+}
+.thirdbutton:active {
+  background-color: rgb(46, 33, 44);
+  transform: translateY(2px);
+}
+.fourthbutton{
+  border: none;
+    border-radius: 5px;
+    border-style:solid;
+    border-width: 1.2px;
+    border-color: #29002e;
+    color: lavender;
+    background: rgb(91, 29, 150);
+   text-decoration: none;
+      font-size: medium;
+      padding: 10px 20px;
+        text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+          display: inline-block;
+}
+.fourthbutton:hover {
+    background: #29002e;
+    box-shadow: none;
+    position: relative;
+        top: 1px;
+}
+.fourthbutton:active {
+  background-color: rgb(46, 33, 44);
+  transform: translateY(2px);
+}
+nav {
+    text-align: right;
+    text-transform: uppercase;
+    font-family: "Times New Roman", Times, serif;
+    font-weight: bold;
+    word-spacing: 3px;
+}
+main{
+        background-color: rgba(235, 213, 255, 0.855);
+         padding: 70px 30px;
+           margin: -10px;
+             outline: none;
+             text-align: center;
+             text-shadow: 0.5px 0.5px 0.5px rgba(66, 19, 110, 0.619);
+}
+.mainportfolio{
+  background-color: rgb(91, 29, 150);
+             text-align: center;
+             text-shadow: 0.5px 0.5px 0.5px rgba(38, 10, 63, 0.619);
+}
+.mainblog{
+  background-color: rgb(91, 29, 150);
+             text-align: center;
+             text-shadow: 0.5px 0.5px 0.5px rgba(38, 10, 63, 0.619);
+}
+.maincontact{
+  background-color: rgb(91, 29, 150);
+             text-align: center;
+             text-shadow: 0.5px 0.5px 0.5px rgba(38, 10, 63, 0.619);
+}
+h1{
+    text-align: center;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 300%;
+    color: rgb(91, 29, 150);
+font-weight: bolder;
+text-transform: uppercase;
+padding: 20px 20px;
+  margin: 0px;
+padding-bottom: 10px;
+}
+.portfolioh{
+    text-align: center;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 200%;
+    color: rgba(235, 213, 255, 0.855);
+font-weight: bolder;
+text-transform: uppercase;
+padding: 5px 20px;
+  margin: 0px;
+}
+.blogh{
+    text-align: center;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 200%;
+    color: rgba(235, 213, 255, 0.855);
+font-weight: bolder;
+text-transform: uppercase;
+padding: 5px 20px;
+  margin: 0px;
+}
+.contacth{
+    text-align: center;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 200%;
+    color: rgba(235, 213, 255, 0.855);
+font-weight: bolder;
+text-transform: uppercase;
+padding: 5px 20px;
+  margin: 0px;
+}
+h2{
+    text-align: center;
+    font-family: "Times New Roman", Times, serif;
+    font-size: x-large;
+    color: rgb(91, 29, 150);
+font-weight: bolder;
+text-transform: uppercase;
+padding: 0px 20px;
+  margin: 0px;
+}
+.first-paragraph{
+    justify-content: center;
+    font-family: "Times New Roman", Times, serif;
+    font-size: x-large;
+    color: rgb(91, 29, 150);
+    font-weight: normal;
+       text-align: center;
+       padding: 0px 20px;
+  margin: 0px;
+}
+.second-paragraph{
+    justify-content: center;
+    font-family: "Times New Roman", Times, serif;
+    font-size: x-large;
+    color: rgb(91, 29, 150);
+    font-weight: normal;
+       text-align: center;
+       padding: 0px 20px;
+  margin: 0px;
+}
+.third-paragraph{
+    justify-content: center;
+    font-family: "Times New Roman", Times, serif;
+    font-size: x-large;
+    color: rgb(91, 29, 150);
+    font-weight:normal;
+       text-align: center;
+       padding: 0px 20px;
+  margin: 0px;
+}
+.fifthbutton{
+    font-family: "Times New Roman", Times, serif;
+    font-size: normal;
+    font-weight: bold;
+  border: none;
+    border-radius: 5px;
+      border-style:solid;
+    border-width: 1.2px;
+    border-color: #29002e;
+    color: lavender;
+    background: rgb(91, 29, 150);
+   text-decoration: none;
+      padding: 10px 20px;
+      margin: 10px;
+        text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+          display: inline-flex;
+justify-content: center;
+text-transform: uppercase;
+}
+.fifthbutton:hover {
+    background: #29002e;
+    box-shadow: none;
+    position: relative;
+        top: 1px;
+}
+.fifthbutton:active {
+  background-color: rgb(46, 33, 44);
+  transform: translateY(2px);
+}
+#first{
+  background-color: rgb(165, 101, 226);
+    border-style:solid;
+    border-width: 1.2px;
+    border-radius: 5px;
+margin-right: auto;
+padding-bottom: 1%;
+margin: 15px 0px 20px;
+display: inline-block;
+  width: 50%; 
+  float: right; 
+  margin-bottom: -10px;
+  box-shadow: 2px 2px 4px #29002e;
+}  
+.firstp{
+  color: #29002e;
+  font-family: "Times New Roman", Times, serif;
+    font-weight: bold;
+    font-size: x-large;
+    margin: 20px 20px;
+    text-shadow: 0.5px 0.5px 0.5px rgba(66, 19, 110, 0.619)
+}
+span{
+  color: rgba(235, 213, 255, 0.855);
+    font-family: "Times New Roman", Times, serif;
+    font-size: normal;
+    font-weight: bold;
+  border: none;
+    border-radius: 15px;
+    background: rgb(91, 29, 150);
+      padding: 5px 10px;
+      margin: 10px;
+    width: 100px;
+    height: 20px;
+        text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    display:flex;
+}
+span:hover{
+  background: #29002e;
+  box-shadow: none;
+  position: relative;
+  top: 1px;
+}
+.firstelement{
+    background-color: rgba(235, 213, 255, 0.855);
+    border-style:solid;
+    border-width: 1.2px;
+    border-radius: 5px;
+padding-bottom: 5.2%;
+display: inline-block;
+  width: 45%; 
+margin: 15px 0px 20px;
+ box-shadow: 2px 2px 4px #29002e;
+}
+.secondp{
+  color: #29002e;
+  font-family: "Times New Roman", Times, serif;
+    font-weight: bold;
+    font-size: x-large;
+    margin: 20px 20px;
+    text-shadow: 0.5px 0.5px 0.5px rgba(66, 19, 110, 0.619)
+}
+ul{
+    color: #29002e;
+  font-family: "Times New Roman", Times, serif;
+    font-weight: bold;
+    font-size: large;
+    margin: 20px 20px;
+    text-decoration: underline;
+}
+.firstli:hover{
+    color: rgba(235, 213, 255, 0.855);
+    position: relative;
+        top: 1px;
+}
+.secondli:hover{
+    color: rgba(235, 213, 255, 0.855);
+    position: relative;
+        top: 1px;
+}
+.thirdli:hover{
+    color: rgba(235, 213, 255, 0.855);
+    position: relative;
+        top: 1px;
+}
+.fourthli:hover{
+    color: rgba(235, 213, 255, 0.855);
+    position: relative;
+        top: 1px;
+}
+.thirdp{
+    color: #29002e;
+  font-family: "Times New Roman", Times, serif;
+    font-weight: bold;
+    font-size: 250%;
+    margin: 20px 20px;
+    text-shadow: 0.5px 0.5px 0.5px rgba(66, 19, 110, 0.619)
+}
+.abtmeparagraph{
+  color: #29002e;
+  font-family: "Times New Roman", Times, serif;
+    font-weight: normal;
+    font-size: 110%;
+    margin: 20px 20px;
+    text-align: justify;
+    display: inline-block;
+}
+body{
+  background-color: rgb(91, 29, 150);
+}
+main{
+  flex: 1;
+}
+footer{
+  background-color: rgb(43, 15, 69);
+  width: 100%;
+  display: flex;
+  padding: 0px 10px;
+           margin: -10px;
+  justify-content: center;
+}
+.copyright{
+    color: #100013;
+  font-family: "Times New Roman", Times, serif;
+    font-weight: bold;
+    font-size:medium;
+    margin: 10px 20px;
+    text-align: justify;
+    display: inline-block;
+    text-shadow: 0.5px 0.5px 0.5px rgba(194, 129, 255, 0.438);
+}
+.links{
+  font-family: "Times New Roman", Times, serif;
+    font-weight: normal;
+    font-size:medium;
+    margin: 10px 10px;
+    text-align: justify;
+    text-decoration: none;
+}
+.links:hover{
+    position: relative;
+        top: 1px;
+}
+.linkss:hover{
+  color:rgba(26, 8, 43, 0.855) ;
+    position: relative;
+}
